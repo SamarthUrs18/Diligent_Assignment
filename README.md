@@ -13,5 +13,5 @@ npx tailwindcss init -p
 # This command installs the icons
 npm install lucide-react
 
-#Run the app
+#Run the app-
 npm run dev
